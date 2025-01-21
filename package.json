@@ -11,9 +11,9 @@
     },
     "devDependencies": {
         "typescript": "5.5.4",
-        "@servicenow/sdk": "2.2.4",
+        "@servicenow/sdk": "2.2.3",
         "@servicenow/glide": "26.0.1",
         "eslint": "8.50.0",
-        "@servicenow/eslint-plugin-sdk-app-plugin": "2.2.4"
+        "@servicenow/eslint-plugin-sdk-app-plugin": "2.2.3"
     }
 }
